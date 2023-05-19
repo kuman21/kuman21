@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Víctor Tovar
-- 👀 I’m interested in laravel, angular, tdd, livewire, alpine, etc.
+- 👀 I’m interested in laravel, angular, tdd, livewire, alpine, vue, react, etc.
 - 🌱 I’m currently learning tdd in laravel.
 
 <!---
